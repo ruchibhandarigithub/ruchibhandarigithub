@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruchi Bhandari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://png.pngtree.com/png-vector/20210906/ourmid/pngtree-e-learning-programmer-with-a-female-character-sitting-and-carrying-computer-png-image_3843626.jpg" alt="coding" width="400px">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchibhandarigithub&label=Profile%20views&color=0e75b6&style=flat" alt="ruchibhandarigithub" /> </p>
 
 - 💬 Ask me about **Html,Css,JavaScript,Java , SpringBoot**
